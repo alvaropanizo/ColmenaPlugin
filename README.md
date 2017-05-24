@@ -10,4 +10,4 @@ _PULSO RESEARCH TEAM_
 - Álvaro Panizo Romano
 
 ## Official website and Platform
-http://colmenaproject.es/login/
+http://colmenaproject.es/
